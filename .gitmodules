@@ -1,0 +1,30 @@
+[submodule "hw-paradigmy"]
+	path = hw-paradigmy
+	url = https://github.com/sergalb/hw-paradigmy
+[submodule "cpp-course"]
+	path = cpp-course
+	url = https://github.com/sergalb/cpp-course
+[submodule "cpp-third-term"]
+	path = cpp-third-term
+	url = https://github.com/sergalb/cpp-third-term
+[submodule "java-advanced"]
+	path = java-advanced
+	url = https://github.com/sergalb/java-advanced
+[submodule "web"]
+	path = web
+	url = https://github.com/sergalb/web
+[submodule "Computational_geometry"]
+	path = Computational_geometry
+	url = https://github.com/sergalb/Computational_geometry
+[submodule "android-2019"]
+	path = android-2019
+	url = https://github.com/sergalb/android-2019
+[submodule "machine-learning-course"]
+	path = machine-learning-course
+	url = https://github.com/sergalb/machine-learning-course
+[submodule "computational-methods"]
+	path = computational-methods
+	url = https://github.com/sergalb/computational-methods
+[submodule "fp-homework"]
+	path = fp-homework
+	url = https://github.com/sergalb/fp-homework
