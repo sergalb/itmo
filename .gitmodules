@@ -28,3 +28,11 @@
 [submodule "fp-homework"]
 	path = fp-homework
 	url = https://github.com/sergalb/fp-homework
+[submodule "ParserGenerator"]
+	path = ParserGenerator
+	url = https://github.com/sergalb/ParserGenerator.git
+	branch = master
+[submodule "JavaCodeStyle"]
+	path = JavaCodeStyle
+	url = https://github.com/sergalb/JavaCodeStyle.git
+	branch = master
